@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba01a212-f687-4bfb-a5f0-2e6dc3335cd5" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="a90dff57-f1fc-4074-b3b0-b1abf18b76ec" />
+  <component name="ProjectId" id="1WA7TaKcDL04fDDEULy0F8wZ9go" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wenxi\PycharmProjects\temp\Abstract\model\sentence-embedding" />
+      <recent name="C:\Users\wenxi\PycharmProjects\temp\Abstract\model\pgn" />
+      <recent name="C:\Users\wenxi\PycharmProjects\temp\Abstract\utils" />
+      <recent name="C:\Users\wenxi\PycharmProjects\temp\Abstract\data" />
+      <recent name="C:\Users\wenxi\PycharmProjects\temp\Abstract\week7" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="textprocessing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Abstract" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Projects\Abstract\textprocessing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.textprocessing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba01a212-f687-4bfb-a5f0-2e6dc3335cd5" name="Default" comment="" />
+      <created>1578143010880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578143010880</updated>
+      <workItem from="1578580559741" duration="10626000" />
+      <workItem from="1578923664792" duration="9854000" />
+      <workItem from="1579003001601" duration="9714000" />
+      <workItem from="1580311522384" duration="4008000" />
+      <workItem from="1580386486435" duration="19837000" />
+      <workItem from="1581007477000" duration="3416000" />
+      <workItem from="1581065004021" duration="7577000" />
+      <workItem from="1581081832542" duration="637000" />
+      <workItem from="1581520692245" duration="1986000" />
+      <workItem from="1581562997171" duration="20030000" />
+      <workItem from="1581838484894" duration="1889000" />
+      <workItem from="1582207970574" duration="21000" />
+      <workItem from="1582254051134" duration="30622000" />
+      <workItem from="1582813580472" duration="13884000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="295" key="FileChooserDialogImpl" timestamp="1582123810567">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1060" y="295" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1582123810567" />
+    <state width="2517" height="281" key="GridCell.Tab.0.bottom" timestamp="1582814649278">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="281" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1582814649278" />
+    <state width="2517" height="281" key="GridCell.Tab.0.center" timestamp="1582814649277">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="281" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1582814649277" />
+    <state width="2517" height="281" key="GridCell.Tab.0.left" timestamp="1582814649276">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="281" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1582814649276" />
+    <state width="2517" height="281" key="GridCell.Tab.0.right" timestamp="1582814649277">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="281" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1582814649277" />
+    <state width="2517" height="348" key="GridCell.Tab.1.bottom" timestamp="1579012614823">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1579012614823" />
+    <state width="2517" height="348" key="GridCell.Tab.1.center" timestamp="1579012614823">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1579012614823" />
+    <state width="2517" height="348" key="GridCell.Tab.1.left" timestamp="1579012614823">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1579012614823" />
+    <state width="2517" height="348" key="GridCell.Tab.1.right" timestamp="1579012614823">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1579012614823" />
+    <state x="781" y="162" key="SettingsEditor" timestamp="1581065091372">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="781" y="162" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1581065091372" />
+    <state x="960" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582814298873">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="540" y="304" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1580386877563" />
+    <state x="960" y="344" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1582814298873" />
+    <state x="956" y="119" width="647" height="801" key="find.popup" timestamp="1581007910826">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="956" y="119" width="647" height="801" key="find.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1581007910826" />
+    <state x="943" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582826143986">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="3103" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1440.920/2160.10.2560.1040@2160.10.2560.1040" timestamp="1582272025044" />
+    <state x="943" y="225" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1582826143986" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Abstract$homework_week2.coverage" NAME="homework-week2 Coverage Results" MODIFIED="1579012495864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Abstract$textprocessing.coverage" NAME="textprocessing Coverage Results" MODIFIED="1581521286741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
